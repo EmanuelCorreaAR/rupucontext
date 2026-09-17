@@ -170,6 +170,11 @@ pytest
 **Next:** stabilize audit contract toward 1.0.
 
 
+## Apoyar el proyecto
+
+Si RupuContext te sirve, podés invitarme un cafecito: [cafecito.app/emacorreadev](https://cafecito.app/emacorreadev)
+
+
 ## License
 
 Apache License 2.0
